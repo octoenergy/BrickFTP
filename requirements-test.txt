@@ -4,5 +4,5 @@ coverage==4.4.2
 flake8==3.5.0
 pep8-naming==0.5.0
 pytest-cov==2.5.1
-codecov==2.0.15
+codecov==2.0.16
 pytest-mock==1.7.1
